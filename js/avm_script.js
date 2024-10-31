@@ -1,0 +1,1 @@
+$onboardJquery=jQuery.noConflict();

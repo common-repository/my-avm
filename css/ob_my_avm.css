@@ -1,0 +1,15 @@
+.form-table th {display: none;}
+.form-table td{padding:0px !important}
+.codeS{vertical-align: middle;position: relative;top: 7px;font-size: 14px;}
+pre{padding:2px 6px 13px 8px !important;}
+.hideControl{display:none;}
+.lead-lg-12, .lead-control{width:100%;float:left;}
+
+ em#avm_address1_err , em#avm_address2_err , em#avm_zip_err , em#avm_text_error, em#avm_email_err1 {
+    font-size: 14px;
+    color: red;
+    font-style: normal;
+	float: left;
+    width: 100%;
+}
+ #avm_text{height:400px}
